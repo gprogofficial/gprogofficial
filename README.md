@@ -1,6 +1,6 @@
 ### ✨ Welcome!
 
-On this page, you will find all the Web Development and Front-end projects created on my YouTube channel **GProg**.
+Here you'll find the starter code for Web Development and Front-end projects from my **YouTube** channel, **GProg**.
 
 #### 🔗 My YouTube Channel
 <a href="https://www.youtube.com/@gprogofficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
